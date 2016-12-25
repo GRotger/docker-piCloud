@@ -1,0 +1,3 @@
+[submodule "www/piCloud"]
+	path = www/piCloud
+	url = https://github.com/GRotger/piCloud.git
